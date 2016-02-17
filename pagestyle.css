@@ -9,8 +9,10 @@ body {
 
 a:link    {
             color: lightslategray;
+            text-decoration: none;
           }
 
 a:visited {
             color: gray;
+            text-decoration: none;
           }
